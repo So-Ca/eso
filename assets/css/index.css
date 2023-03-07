@@ -1,0 +1,53 @@
+body{
+  background-image: linear-gradient(-90deg, rgba(82, 82, 82, 0.6) 0%, rgba(82, 82, 82, 0.6) 100%), url(map-2.webp);*/
+  object-fit: contain;
+  background-size: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+}
+
+h1{
+  font-size: 5em;
+  text-align: center;
+  margin: 30px 0 20px 0;
+  color: #000000;
+  text-shadow: -1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff;
+/*  Il primo valore è l'ombra in orizzontale 
+ il secondo valore è l'ombra in verticale
+ il terzo valore è il colore
+*/
+}
+
+h2{
+  margin: 0 0 20px 0;
+  font-size: 3em;
+  text-align: center;
+  color: #000000;
+  text-shadow: -1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff;
+}
+
+h3{
+  margin: 10px 0 20px 0;
+  font-size: 2em;
+  text-align: center;
+  color: #000000;
+  text-shadow: -1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff;
+}
+
+h6{
+  font-size: 1.5em;
+  text-shadow: -1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff;
+}
+
+article{
+  margin: 10px 428px;
+}
+
+p{
+  margin: 0px 0 15px 0;
+  font-size: 1.5em;
+  text-align: justify;
+  line-height: 1.5;
+  text-shadow: -1px 0 #080808, 0 1px #080808, 1px 0 #0c0c0c, 0 -1px #0c0c0c;
+  color: white;
+}

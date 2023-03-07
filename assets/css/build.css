@@ -1,0 +1,15 @@
+.grid-gear{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  column-gap: 10px;
+  row-gap: 5px;
+  margin-top: 10px;
+}
+
+.column{
+  border: 1px solid #000000;
+}
+
+.row{
+  border: 1px solid #000000;
+}

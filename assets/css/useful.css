@@ -1,0 +1,43 @@
+.grid-mats{
+  display: grid;
+  grid-template-columns: 200px 60px 200px;
+  column-gap: 10px;
+  row-gap: 5px;
+}
+
+.grid-pozze{
+  display: grid;
+  grid-template-columns: 170px 400px 200px;
+  column-gap: 10px;
+  row-gap: 5px;
+  margin-top: 10px;
+}
+
+.grid-poison{
+  display: grid;
+  grid-template-columns: 170px 400px 300px;
+  column-gap: 10px;
+  row-gap: 5px;
+  margin-top: 10px;
+}
+
+.grid-meal{
+  display: grid;
+  grid-template-columns: 300px 400px 340px;
+  column-gap: 10px;
+  row-gap: 5px;
+  margin-top: 10px;
+}
+
+.column{
+  border: 1px solid #000000;
+}
+
+.row{
+  border: 1px solid #000000;
+}
+
+.quality{
+  width: 300px;
+  border-bottom: 1px solid black;
+}
